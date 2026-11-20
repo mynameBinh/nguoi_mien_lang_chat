@@ -1,0 +1,6 @@
+{
+  "name": "Người Miền Làng Chất",
+  "description": "Tuyển tập trò chơi dân gian Việt Nam cách tân: Kéo co nhịp điệu, Rồng rắn lên mây, Cướp mic remix và Mèo bắt chuột.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
